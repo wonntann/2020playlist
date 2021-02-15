@@ -1,0 +1,11 @@
+body {
+    background-color: #cfe3c3;
+}
+
+/* Player Container */
+.vid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
